@@ -1,0 +1,3 @@
+Quantity of processors: 4
+ConsoleApp.exe - % CPU Consumption = 50,2134208679199
+ConsoleApp.exe - CPU Consumption = 200,85368347168

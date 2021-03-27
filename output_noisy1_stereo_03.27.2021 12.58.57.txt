@@ -1,0 +1,22 @@
+SW version: v.0.5.0
+|======================================|
+File: ./noisy1_stereo.wav
+Num Channels: 2
+Frame Number: 358059
+Bits per Sample: 16
+Sample Rate: 16000
+|======================================|
+Starting chunked inferences
+chunk 0
+chunk 40800
+chunk 81600
+chunk 122400
+chunk 163200
+chunk 204000
+chunk 244800
+chunk 285600
+chunk 326400
+Inference time = 16.5632[s]
+Saving to file ./noisy1_stereoDenoised.wav
+FINISHED
+Elapsed time (in sec): 17.035s
